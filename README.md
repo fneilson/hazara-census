@@ -1,6 +1,6 @@
 # How do Hazaras Report their Language and Culture at Census Time? 
 
-Community activists ran a campaign in July and August 2021 to encourage Australian Hazaras to declare their language and identity in the 2021 Australian Census. Since Hazaras are a persecuted ethnic group in Afghanistan who are often denied legitimacy, community advocates argued that it is vital that Hazaras are recognised as a distinct group here in Australia, where many of them now live as refugees or former refugees. The campaign asked Hazaras to declare their ethnicity clearly by giving their language as Hazaraghi and their ancestry as Hazara. 
+Community activists ran a campaign in July and August 2021 to encourage Australian Hazaras to declare their language and identity in the 2021 Australian Census. Since Hazaras are a persecuted ethnic group in Afghanistan who are often denied legitimacy, community advocates argued that it is vital that Hazaras are recognised as a distinct group here in Australia, where many now live as refugees or former refugees. The campaign asked Hazaras to declare their ethnicity clearly by giving their language as Hazaraghi and their ancestry as Hazara. 
 
 To help provide clear data on how Hazaras had answered these questions in the previous census in 2016, and then to show what needs to change in 2021, I performed an analysis of a customised dataset and shared this with the community advocates. 
 
