@@ -8,8 +8,8 @@ To provide clarity on how Hazaras had answered these questions in the previous c
 
 I am not permitted to upload ABS microdata to this repository so I have uploaded screenshots of the Tableau workbook. Unfortunately, this means that all interactive features of the charts and dashboards are lost, however this should illustrate the steps I undertook.
 
-![location_Hazaraghi](https://user-images.githubusercontent.com/63942300/128850432-54a1325a-7665-4c33-a6aa-c30e03839a08.png)
-*Fig 1 - Hazaraghi speakers plotted by their local government area on the national map.*
+![location_Hazaraghi](https://user-images.githubusercontent.com/63942300/128867819-62a79b03-c455-4e18-bff6-91f80b7e54c8.png)
+*Fig 1 - Hazaraghi speakers plotted by their local government area on the national map. Counts of less than 50 have been removed to prevent identification of small groups.*
 
 **Data:** Data are from the ABS 2016 Census of Population and Housing - Counting Persons, Place of Usual Residence dataset. The dataset was downloaded using the Census TableBuilder, which makes all variables available for selection into custom tables using the ABS Table Builder Pro online tool (Australian Bureau of Statistics, 2021). The Census is a national demographic survey run every 5 years and managed by the ABS.
 
@@ -22,7 +22,6 @@ The data show people living in Australia at the time of the 2016 Census. Mutiple
 - ANCP - Ancestry Multi Response: The two ancestry variables (ANC1P and ANC2P) are combined into one variable Ancestry Multi Response (ANCP). Ancestry is coded using the *Australian Standard Classification of Cultural and Ethnic Groups (ASCCEG), 2016.* All ANCP variables were analysed at the 4-digit level, which is the most detailed level of the classification.
 
 - ANCP1 - Ancestry 1st Response
-
 - ANCP2 - Ancestry 2nd Response 
 
 - LANP - Language spoken at home. The filter used was 4107 - Hazaraghi, which is the most granular level of language in the *Australian Standard Classification of Languages (ASCL), 2016.*
@@ -40,16 +39,20 @@ After analysis, I deduced that that the ANCP counts were the sum of ANCP1 and AN
 ![LGA_Hazaraghi](https://user-images.githubusercontent.com/63942300/128854382-1a019370-32f0-4d35-808f-fa310d0bfdc1.png)
 *Fig 2 - Totals below 50 have been filtered out to prevent individuals and small groups from being identified*
 
+
 ![langs_Hazara](https://user-images.githubusercontent.com/63942300/128854774-a3230d83-2e02-41da-bb49-a23c2447dc87.png)
 *Fig 3 - All people with Hazara ancestry (total = 16,051) showing which languages they speak.* 
 
+
 ![ancestry_Hazaraghi_not_combined](https://user-images.githubusercontent.com/63942300/128855112-dbb1fb90-e307-4b5d-a0d4-c71c18e688b2.png)
 *Fig 4 - This chart shows all people who spoke Hazaraghi and looks at which ancestry or ancestries they selected. They can pick 1 or 2.*
+
 
 I used a cross-tabulated report of ANCP1 and ANCP2 and extracted the combinations of ancestries, to give a more nuanced picture of how people identify their ancestry. This was a manual and laborious process, but it gave a much greater level of detail than the combined ANCP variable. I cleaned the data by removing all counts of the Not applicable category of the ANCP variable, which refers to persons who provided a first ancestry but did not provide a second.  
 
 ![ancestry_Hazaraghi](https://user-images.githubusercontent.com/63942300/128855678-48608399-2eab-4c1d-959a-e63e19c7ae2b.png)
 *Fig 5 - Combinations of ancestry show that the majority of Hazaragi speakers pick one ancestry only: Hazara or Afghan. The most  popular combination is Hazara and Afghan.* 
+
 
 ![ancestry_Hazaraghi_Pie](https://user-images.githubusercontent.com/63942300/128859279-2b077997-2217-45ef-8310-c457c08133f2.png)
 ![pie_legend](https://user-images.githubusercontent.com/63942300/128859290-4a988c3d-5305-4572-929a-43d8ac9cf3b9.PNG)
