@@ -57,9 +57,11 @@ I used a cross-tabulated report of ANCP1 and ANCP2 and extracted the combination
 ![ancestry_Hazaraghi_Pie](https://user-images.githubusercontent.com/63942300/128859279-2b077997-2217-45ef-8310-c457c08133f2.png)
 ![pie_legend](https://user-images.githubusercontent.com/63942300/128859290-4a988c3d-5305-4572-929a-43d8ac9cf3b9.PNG)
 
-*Fig 6 - Here I started to bring the information on ethnicity and language together to show how consistently people had answered these two questions.* 
+*Fig 6 - This pie chart shows Hazaraghi speakers and whether they claimed azara ancrestry or not.*
 
-I then experimented with various dashboard presentations of this information and tested them with one of the Hazara community advocates. I decided in the end to create a simple infographic in Powerpoint to convey the current state and the potential for improvement. This has been shared on LinkedIn. 
+Here I started to bring the information on ethnicity and language together to show how consistently people had answered these two questions. 22,261 people said they speak Hazaraghi.  I then looked at the number of Hazaras who did not record Hazaraghi as their language, totalling 3,860. The total of people who say they are Hazara and/ or speak Hazaraghi is thus approx 26,100. 
+
+I experimented with various dashboard presentations of this information and tested them with one of the Hazara community advocates. I decided in the end to create a simple infographic in Powerpoint to convey the current state and the potential for improvement. This has been shared on LinkedIn. 
 
 ### Conclusion
 I am excited to see what the 2021 results will show for the Hazara community. Assuming that people do respond to the census and that they use the opportunity to identify their ethnicity through ancestry and language, there is the possibility for the numbers to double. 
