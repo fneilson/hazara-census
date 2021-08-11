@@ -57,7 +57,7 @@ I used a cross-tabulated report of ANCP1 and ANCP2 and extracted the combination
 ![ancestry_Hazaraghi_Pie](https://user-images.githubusercontent.com/63942300/128859279-2b077997-2217-45ef-8310-c457c08133f2.png)
 ![pie_legend](https://user-images.githubusercontent.com/63942300/128859290-4a988c3d-5305-4572-929a-43d8ac9cf3b9.PNG)
 
-*Fig 6 - Here I started to bring the information on ethnicity and language together to show how consistently people had anwsered these two questions.* 
+*Fig 6 - Here I started to bring the information on ethnicity and language together to show how consistently people had answered these two questions.* 
 
 I then experimented with various dashboard presentations of this information and tested them with one of the Hazara community advocates. I decided in the end to create a simple infographic in Powerpoint to convey the current state and the potential for improvement. This has been shared on LinkedIn. 
 
